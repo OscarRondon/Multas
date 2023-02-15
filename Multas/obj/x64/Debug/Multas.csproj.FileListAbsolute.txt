@@ -1,0 +1,6 @@
+C:\Users\orondon\Documents\orondon\Multas\Multas\bin\x64\Debug\Multas.exe
+C:\Users\orondon\Documents\orondon\Multas\Multas\bin\x64\Debug\Multas.pdb
+C:\Users\orondon\Documents\orondon\Multas\Multas\obj\x64\Debug\Multas.exe
+C:\Users\orondon\Documents\orondon\Multas\Multas\obj\x64\Debug\Multas.pdb
+C:\Users\orondon\Documents\orondon\Multas\Multas\bin\x64\Debug\Multas.exe.config
+C:\Users\orondon\Documents\orondon\Multas\Multas\obj\x64\Debug\Multas.csprojResolveAssemblyReference.cache

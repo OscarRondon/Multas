@@ -1,0 +1,5 @@
+C:\Users\orondon\Documents\orondon\Multas\Multas\bin\Debug\Multas.exe
+C:\Users\orondon\Documents\orondon\Multas\Multas\bin\Debug\Multas.pdb
+C:\Users\orondon\Documents\orondon\Multas\Multas\obj\Debug\Multas.csprojResolveAssemblyReference.cache
+C:\Users\orondon\Documents\orondon\Multas\Multas\obj\Debug\Multas.exe
+C:\Users\orondon\Documents\orondon\Multas\Multas\obj\Debug\Multas.pdb
