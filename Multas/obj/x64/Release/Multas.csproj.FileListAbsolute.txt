@@ -3,3 +3,11 @@ C:\Users\orondon\Documents\orondon\Multas\Multas\bin\x64\Release\Multas.exe
 C:\Users\orondon\Documents\orondon\Multas\Multas\bin\x64\Release\Multas.pdb
 C:\Users\orondon\Documents\orondon\Multas\Multas\obj\x64\Release\Multas.exe
 C:\Users\orondon\Documents\orondon\Multas\Multas\obj\x64\Release\Multas.pdb
+C:\Users\Administrador\Documents\Multas\Multas\bin\x64\Release\Multas.exe.config
+C:\Users\Administrador\Documents\Multas\Multas\bin\x64\Release\Multas.exe
+C:\Users\Administrador\Documents\Multas\Multas\bin\x64\Release\Multas.pdb
+C:\Users\Administrador\Documents\Multas\Multas\bin\x64\Release\SAPBusinessOneSDK.dll
+C:\Users\Administrador\Documents\Multas\Multas\obj\x64\Release\Multas.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Multas\Multas\obj\x64\Release\Multas.csproj.CopyComplete
+C:\Users\Administrador\Documents\Multas\Multas\obj\x64\Release\Multas.exe
+C:\Users\Administrador\Documents\Multas\Multas\obj\x64\Release\Multas.pdb
